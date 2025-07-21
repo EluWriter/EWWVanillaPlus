@@ -1,2 +1,6 @@
-# EWWFanPatch
-Echelon Wind Warriors fan-made patch
+# Echelon Wind Warriors Vanilla+
+TBD
+# Changelog
+TBD
+# Installation
+TBD
